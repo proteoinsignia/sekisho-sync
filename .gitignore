@@ -1,0 +1,41 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+*.egg-info/
+dist/
+build/
+.eggs/
+
+# Logs
+*.log
+logs/
+
+# State files
+*.sha256
+*.state
+.pdb-state
+.memo-state
+
+# Data (never commit backups or extracted memos)
+raw/
+extract/
+tmp/
+
+# Lock files
+*.lock
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Env
+.env
