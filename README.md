@@ -91,7 +91,7 @@ No manual dependency installation is typically required.
 ## ⚡ Installation
 
 ```bash id="install-premium"
-git clone https://github.com/Proteoinsignia/sekisho-sync.git
+git clone https://github.com/proteoinsignia/sekisho-sync.git
 cd sekisho-sync
 sudo ./install.sh
 ```
